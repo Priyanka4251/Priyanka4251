@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyanka4251" alt="priyanka4251" /></a> </p>
 
-- 👨‍💻 Portfolio [https://brilliant-lebkuchen-d44d8b.netlify.app](https://brilliant-lebkuchen-d44d8b.netlify.app)
+- 👨‍💻 Portfolio [Priyanka4251.github.io](Priyanka4251.github.io)
 
 - 📫 How to reach me **pdhar4251@gmail.com**
 
