@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pdhar4251@gmail.com**
 
-- 📄 Resume [https://drive.google.com/drive/my-drive](https://drive.google.com/drive/my-drive)
+- 📄 Resume [https://drive.google.com/file/d/17YrTYHdv9_mxMqixKqWzT5Y1O0og3UpT/view?usp=sharing](https://drive.google.com/file/d/17YrTYHdv9_mxMqixKqWzT5Y1O0og3UpT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
