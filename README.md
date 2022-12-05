@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Priyanka Dhar</h1>
-<h3 align="center">A passionate Java backend developer from India</h3>
+<h3 align="center"> Making thoughts into reality- this concept always does amaze me and coding does allow me to do so...  😀
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka4251&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka4251" /> </p>
 
